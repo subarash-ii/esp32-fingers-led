@@ -38,7 +38,7 @@ Each LED is wired with its own 220 Ω current-limiting resistor between the GPIO
 ## Project structure
 
 ```
-ESP32-FINGERS-LED/
+esp32-fingers-led/
 ├── assets/
 │   └── schema.png          # circuit schematic
 ├── esp32_firmware/         # PlatformIO project (ESP32 firmware)
@@ -58,8 +58,8 @@ ESP32-FINGERS-LED/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/subarash-ii/ESP32-FINGERS-LED.git
-cd ESP32-FINGERS-LED
+git clone https://github.com/subarash-ii/esp32-fingers-led.git
+cd esp32-fingers-led
 ```
 
 ### 2. Flash the ESP32 firmware
