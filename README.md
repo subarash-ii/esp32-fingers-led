@@ -26,7 +26,7 @@ Hand-tracking finger counter that lights up LEDs on an ESP32 board depending on 
 
 Each LED is wired with its own 220 Ω current-limiting resistor between the GPIO pin and the LED anode; all LED cathodes share a common GND.
 
-![Schematic](assets/schema.png)
+<img src="assets/schema.png" alt="Schematic" width="500">
 
 ## Requirements
 
