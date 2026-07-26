@@ -58,7 +58,7 @@ ESP32-FINGERS-LED/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ESP32-FINGERS-LED.git
+git clone https://github.com/subarash-ii/ESP32-FINGERS-LED.git
 cd ESP32-FINGERS-LED
 ```
 
